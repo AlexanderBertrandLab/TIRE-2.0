@@ -34,3 +34,5 @@ pip install -e .
 
 ## Contact
 In case of comments or questions, please contact me at <zhenxiang.cao@esat.kuleuven.be>. 
+
+PS. The original TIRE model is available on https://github.com/AlexanderBertrandLab/TIRE
