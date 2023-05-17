@@ -1,4 +1,4 @@
-# Diamond loss for TIRE model
+# TIRE 2.0: Diamond loss for TIRE model
 Repository for developing the diamond loss for time-invariant representation autoencoder approach (TIRE) for change point detection (CPD) task. More information can be found in the paper **A Novel Loss for Change Point Detection Models with Time-invariant Representations**.
 
 
